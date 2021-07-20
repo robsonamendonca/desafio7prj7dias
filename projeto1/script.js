@@ -2,6 +2,21 @@ document.body.addEventListener('keyup', (event) => {
     playSound(event.code.toLowerCase());
 });
 
+// Get all the desired elements into a node list
+let elements = document.querySelectorAll(".key");
+
+// Convert the node list into an Array so we can
+// safely use Array methods with it
+let elementsArray = Array.prototype.slice.call(elements);
+
+// Loop over the array of elements
+elementsArray.forEach(function (elem) {
+    // Assign an event handler
+    elem.addEventListener("click", function () {
+        playSound(`key${this.innerHTML.toLowerCase()}`);
+    });
+});
+
 document.querySelector('.composer button').addEventListener('click', () => {
     let song = document.querySelector('#input').value;
 
@@ -10,7 +25,7 @@ document.querySelector('.composer button').addEventListener('click', () => {
         playComposition(songArray);
     }
 
-})
+});
 
 function playSound(sound) {
     let audioElement = document.querySelector(`#s_${sound}`);
