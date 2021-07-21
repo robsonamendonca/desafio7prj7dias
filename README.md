@@ -10,8 +10,6 @@
 
 ## Deploy da Aplicação: :checkered_flag:
 
-/_ Aqui estamos usando a tag Quotes do markdown_/
-
 > https://robsonamendonca.github.io/desafio7prj7dias/projeto1/
 
 > https://robsonamendonca.github.io/desafio7prj7dias/projeto2/
