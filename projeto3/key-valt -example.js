@@ -1,0 +1,1 @@
+var API_KEY = 'SUA_API_KEY';
