@@ -2,7 +2,7 @@
 
 - [:heavy_check_mark:] Projeto 1 - Bateria Musical :checkered_flag:
 - [:heavy_check_mark:] Projeto 2 - Relógio Analógico :checkered_flag:
-- [:heavy_check_mark:] Projeto 3 - Consulta Clina :checkered_flag:
+- [:heavy_check_mark:] Projeto 3 - Consulta Clima :checkered_flag:
 - [:warning:] Projeto 4 -
 - [:warning:] Projeto 5 -
 - [:warning:] Projeto 6 -
