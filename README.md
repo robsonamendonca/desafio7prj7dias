@@ -5,7 +5,7 @@
 - [:heavy_check_mark:] Projeto 3 - Consulta Clima :checkered_flag:
 - [:heavy_check_mark:] Projeto 4 - Jogo da Velha :checkered_flag:
 - [:heavy_check_mark:] Projeto 5 - Desenho em Canvas :checkered_flag:
-- [:warning:] Projeto 6 -
+- [:heavy_check_mark:] Projeto 6 - Quiz :checkered_flag:
 - [:warning:] Projeto 7 -
 
 ## Deploy da Aplicação: :checkered_flag:
@@ -19,3 +19,5 @@
 > https://robsonamendonca.github.io/desafio7prj7dias/projeto4/
 
 > https://robsonamendonca.github.io/desafio7prj7dias/projeto5/
+
+> https://robsonamendonca.github.io/desafio7prj7dias/projeto6/
