@@ -6,7 +6,7 @@
 - [:heavy_check_mark:] Projeto 4 - Jogo da Velha :checkered_flag:
 - [:heavy_check_mark:] Projeto 5 - Desenho em Canvas :checkered_flag:
 - [:heavy_check_mark:] Projeto 6 - Quiz :checkered_flag:
-- [:warning:] Projeto 7 -
+- [:heavy_check_mark:] Projeto 7 - Arrastar e Soltar :checkered_flag:
 
 ## Deploy da Aplicação: :checkered_flag:
 
@@ -21,3 +21,5 @@
 > https://robsonamendonca.github.io/desafio7prj7dias/projeto5/
 
 > https://robsonamendonca.github.io/desafio7prj7dias/projeto6/
+
+> https://robsonamendonca.github.io/desafio7prj7dias/projeto7/
